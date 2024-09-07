@@ -1,0 +1,9 @@
+{
+  "name": "Twilight theme",
+  "version": "0.0.1",
+  "authors": [
+    "Sander Smits <jsmits-github.squeamish032@passmail.net>"
+  ],
+  "description": "Twilight themes for Zed",
+  "repository": "https://github.com/jsmits/zed-twilight-theme"
+}
