@@ -87,8 +87,8 @@
         "terminal.ansi.yellow": "#DAD085",
         "terminal.ansi.bright_yellow": "#DAD085",
         "terminal.ansi.dim_yellow": null,
-        "terminal.ansi.blue": "#81A1C1",
-        "terminal.ansi.bright_blue": "#81A1C1",
+        "terminal.ansi.blue": "#7587A6",
+        "terminal.ansi.bright_blue": "#7587A6",
         "terminal.ansi.dim_blue": null,
         "terminal.ansi.magenta": "#9B859D",
         "terminal.ansi.bright_magenta": "#9B859D",
@@ -250,7 +250,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#F1F1F1",
+            "color": "#7587A6",
             "font_style": null,
             "font_weight": null
           },
@@ -265,7 +265,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#81A1C1",
+            "color": "#CDA869",
             "font_style": null,
             "font_weight": null
           },
